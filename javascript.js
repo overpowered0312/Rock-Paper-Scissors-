@@ -1,5 +1,3 @@
-test
-
 function getComputerChoice() {
     let odds = Math.random();
         if (odds < .33) {
